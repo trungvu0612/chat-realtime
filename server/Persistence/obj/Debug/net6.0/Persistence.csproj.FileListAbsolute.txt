@@ -1,0 +1,15 @@
+D:\Freelancer\chat-realtime\server\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Freelancer\chat-realtime\server\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Freelancer\chat-realtime\server\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Freelancer\chat-realtime\server\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Freelancer\chat-realtime\server\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Freelancer\chat-realtime\server\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
